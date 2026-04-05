@@ -1,5 +1,5 @@
 CREATE TABLE customer (
-Name varchar(30) not null,
+Name varchar(50) not null,
 Password varchar(30) not null,
 Email varchar(30) not null,
 Phone int(12) not null,
